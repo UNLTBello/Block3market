@@ -8,7 +8,6 @@ import blockchainMug from "@/assets/blockchain-mug.png";
 import blockhainPoster from "@/assets/blockchain-poster.png";
 import blockchainTshrit from "@/assets/blockchain-tshirt.png";
 import btcMiningCpu from "@/assets/btc-mining-cpu.png";
-import cryptoSticker from "@/assets/crypto-sticker-pack.png";
 import Navbar from "./components/Navbar";
 
 interface Product {
