@@ -43,7 +43,7 @@ const Navbar = () => {
         }  lg:h-[10vh] lg:opacity-100`}
       >
         {/* Logo */}
-        <div className="text-xl font-bold hidden lg:visible" onClick={()=> router.push("/")}>Bloxk3market</div>
+        <div className="text-xl font-bold hidden lg:flex" onClick={()=> router.push("/")}>Bloxk3market</div>
 
         {/* Search Bar */}
         <div className="flex-1 hidden lg:flex mx-8">
